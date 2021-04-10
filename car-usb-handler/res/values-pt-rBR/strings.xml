@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Manipulador de USB"</string>
+<string name="usb_saved_devices">"Dispositivos salvos"</string>
+<string name="usb_pref_delete_title">"Remova o aplicativo de manipulação do dispositivo USB"</string>
+<string name="usb_pref_delete_message">"Deseja realmente excluir o aplicativo de manipulação padrão do %1$s?"</string>
+<string name="usb_pref_delete_yes">"Sim"</string>
+<string name="usb_pref_delete_cancel">"Cancelar"</string>
+<string name="usb_resolving_handlers">"Obtendo manipuladores compatíveis"</string>
+<string name="usb_unknown_device">"Dispositivo USB desconhecido"</string>
+<string name="usb_boot_service_notification">"Analisando dispositivos USB"</string>
+</resources>

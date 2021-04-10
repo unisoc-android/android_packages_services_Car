@@ -30,4 +30,5 @@
   <string-array name="config_AoapIncompatibleDeviceIds">
     <item msgid="4267974637522344258">"18d1:9302"</item>
   </string-array>
+  <string name="usb_pref_delete_message">"کیا آپ کو یقین ہے کہ آپ %1$s کے لیے ڈیفالٹ ہینڈلنگ ایپ کو ڈلیٹ کرنا چاہتے ہیں؟"</string>
 </resources>

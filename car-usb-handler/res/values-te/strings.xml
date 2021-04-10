@@ -30,4 +30,5 @@
   <string-array name="config_AoapIncompatibleDeviceIds">
     <item msgid="4267974637522344258">"18d1:9302"</item>
   </string-array>
+  <string name="usb_pref_delete_message">"మీరు%1$s కోసం డాఫాల్ట్ హ్యాండ్లింగ్ అనువర్తనాన్ని తొలగించాలని అనుకుంటున్నారా?"</string>
 </resources>
